@@ -21,9 +21,13 @@ We evaluate Random Forest and AdaBoost classifiers across multiple time window s
 
 ece5831-2024-final-project/
 │
-├── final-project.ipynb   
+
+├── final-project.ipynb 
+
 ├── features.py  
+
 ├── downloader.py 
+
 ├── README.md                 
 
 Large files such as datasets, presentation slides, and the final report are hosted on Google Drive and linked below.
@@ -98,4 +102,5 @@ Key references are included in the final report, covering cryptocurrency manipul
 This project is for academic purposes as part of ECE 5831.
 
 ```
+
 
