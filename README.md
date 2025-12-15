@@ -2,7 +2,7 @@
 ## Detecting Cryptocurrency Pump-and-Dump Manipulation Using Machine Learning
 
 ### Course
-ECE 5831 – Pattern Recognition and Machine Learning
+ECE 5831 2025 – Pattern Recognition and Neural Networks
 
 ### Team Members
 - Nawaz Ur Rahman Mohammed  
@@ -98,3 +98,4 @@ Key references are included in the final report, covering cryptocurrency manipul
 This project is for academic purposes as part of ECE 5831.
 
 ```
+
