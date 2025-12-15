@@ -51,19 +51,19 @@ Presentation Video (YouTube):
 https://youtu.be/WfoZL01okDw
 
 Presentation Slides:  
-https://drive.google.com/drive/folders/1ka62rgWZya7huoAZhrWwv1eb41onZM9s?usp=sharing
+(https://docs.google.com/presentation/d/11GLxNMQIam_YJfFkKV-yReaNJvNAJib4/edit?usp=drive_link&ouid=105799409387142065792&rtpof=true&sd=true)
 
 
 ## Report
 The final report is written using the IEEE conference proceedings format and includes:
 - Abstract  
 - Introduction  
-- Related work / literature review  
+- Related work 
 - Results  
 - Discussion and future work  
 
 Final Report (IEEE format):  
-https://drive.google.com/drive/folders/1ka62rgWZya7huoAZhrWwv1eb41onZM9s?usp=sharing
+https://drive.google.com/file/d/1ZNPTSfiHJVjRA7I99HqMM2C-we5xEWdT/view?usp=drive_link
 
 ## Demo Video
 A demo video is provided to visually showcase the project workflow, model outputs, and performance results.
@@ -71,8 +71,8 @@ A demo video is provided to visually showcase the project workflow, model output
 Demo Video (YouTube):  
 https://youtu.be/ncXdIQPdsCc
 
-
 ## How to Run the Project
+```
 1. Open below link
 https://github.com/kmanas-2509/ece5831-2025-final-project/ece5831-2025-final-project
 
@@ -102,5 +102,6 @@ Key references are included in the final report, covering cryptocurrency manipul
 This project is for academic purposes as part of ECE 5831.
 
 ```
+
 
 
