@@ -21,8 +21,10 @@ We evaluate Random Forest and AdaBoost classifiers across multiple time window s
 
 ece5831-2024-final-project/
 │
-├── final-project.ipynb        # Executed notebook showing data processing, feature extraction, and model training
-├── README.md                  # Project documentation 
+├── final-project.ipynb   
+├── features.py  
+├── downloader.py 
+├── README.md                 
 
 Large files such as datasets, presentation slides, and the final report are hosted on Google Drive and linked below.
 
@@ -33,7 +35,7 @@ The dataset consists of:
 - Trade-level cryptocurrency data collected using the Binance public API
 
 Dataset (Google Drive):  
-**[Insert Google Drive dataset link here]**
+https://drive.google.com/drive/folders/1ka62rgWZya7huoAZhrWwv1eb41onZM9s?usp=sharing
 
 ---
 
@@ -45,7 +47,7 @@ Presentation Video (YouTube):
 https://youtu.be/WfoZL01okDw
 
 Presentation Slides:  
-**[Insert Google Drive slides link here]**
+https://drive.google.com/drive/folders/1ka62rgWZya7huoAZhrWwv1eb41onZM9s?usp=sharing
 
 
 ## Report
@@ -57,6 +59,7 @@ The final report is written using the IEEE conference proceedings format and inc
 - Discussion and future work  
 
 Final Report (IEEE format):  
+https://drive.google.com/drive/folders/1ka62rgWZya7huoAZhrWwv1eb41onZM9s?usp=sharing
 
 ## Demo Video
 A demo video is provided to visually showcase the project workflow, model outputs, and performance results.
@@ -66,14 +69,11 @@ https://youtu.be/ncXdIQPdsCc
 
 
 ## How to Run the Project
-1. Clone this repository:
-```
-
-git clone [https://github.com/](https://github.com/)<your-username>/ece5831-2024-final-project.git
+1. Open below link
+https://github.com/kmanas-2509/ece5831-2025-final-project/ece5831-2025-final-project
 
 ```
 2. Open `final-project.ipynb`
-3. Run all cells sequentially to reproduce the feature extraction, model training, and evaluation results
 
 > Note: The notebook contains executed cells to demonstrate successful runs and results.
 
@@ -96,4 +96,5 @@ Key references are included in the final report, covering cryptocurrency manipul
 
 ## License
 This project is for academic purposes as part of ECE 5831.
+
 ```
