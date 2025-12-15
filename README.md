@@ -1,4 +1,4 @@
-# ECE 5831 Final Project  
+# ECE 5831 001 2025 Final Project  
 ## Detecting Cryptocurrency Pump-and-Dump Manipulation Using Machine Learning
 
 ### Course
@@ -51,7 +51,7 @@ Presentation Video (YouTube):
 https://youtu.be/WfoZL01okDw
 
 Presentation Slides:  
-(https://docs.google.com/presentation/d/11GLxNMQIam_YJfFkKV-yReaNJvNAJib4/edit?usp=drive_link&ouid=105799409387142065792&rtpof=true&sd=true)
+https://docs.google.com/presentation/d/11GLxNMQIam_YJfFkKV-yReaNJvNAJib4/edit?usp=drive_link&ouid=105799409387142065792&rtpof=true&sd=true
 
 
 ## Report
@@ -99,9 +99,6 @@ Key references are included in the final report, covering cryptocurrency manipul
 
 
 ## License
-This project is for academic purposes as part of ECE 5831.
+This project is for academic purposes as part of ECE 5831 2025.
 
 ```
-
-
-
